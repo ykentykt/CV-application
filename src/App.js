@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import GeneralInfo from './components/GeneralInfo/GeneralInfo';
 import Education from './components/Education/Education';
 import Experience from './components/Experience/Experience';
